@@ -4,12 +4,12 @@
 
 [•• تنبيه••]
 
-تغيرات انستقرام الذهبي 1.10:
+تغيرات انستقرام الذهبي 1.20:
 
 
-••| InstAero V12.0.0.beta Güncelleme Detayları |••
+••| InstAero V1.10 Güncelleme Detayları |••
 
-• [TEMEL GÜNCELLENDİ] 157.0.0.37.120
+• [TEMEL GÜNCELLENDİ] 157.0.0.37.130
 
 • [Düzeltildi] Bazı hatalar giderildi.
 
