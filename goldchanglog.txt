@@ -1,28 +1,27 @@
-[•• ملاجظه••]
+[•• WARNING ••]
 
-إذا كنت لا تريد الاطلاع على إشعار التحديث هذا ، فيمكنك تعطيل "التحقق من التحديث" من "إعدادات انستقرام الذهبي> الخدمة> تجاهل التحديثات
+IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "AeroInsta Settings > Service > Disable updates".
 
-[•• تنبيه••]
+[•• WARNING ••]
 
-تغيرات انستقرام الذهبي 1.20:
-
-
-••| InstAero V1.10 Güncelleme Detayları |••
-
-• [TEMEL GÜNCELLENDİ] 157.0.0.37.130
-
-• [Düzeltildi] Bazı hatalar giderildi.
+InstAero V1.20 Changelog:
 
 
-[•• RENKLER ••]
-(Karanlık mod ile birlikte kullanabilirsiniz..)
+••| InstAero V1.20 Update Details |••
 
-Karanlık Yeşil
-Karanlık Mavi
-Karanlık Beyaz
-Karanlık Kırmızı
-Karanlık Altın
-Ekstra Karanlık
-Açık Ton
-Mercan Pembesi
-Parlak Mor
+• [BASE UPDATE] 157.0.0.37.130
+
+• [Fixed] Some Bugs
+
+[•• COLORS ••]
+(Can be used in conjunction with the night mode feature.)
+
+Dark Green
+Dark Blue
+Dark White
+Dark Red
+Gold Dark
+Extra Dark
+Light Tone
+Coral Pink
+Light Purple
