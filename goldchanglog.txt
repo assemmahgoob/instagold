@@ -1,0 +1,28 @@
+[•• UYARI••]
+
+BU GÜNCELLEME BİLDİRİMİNİ GÖRMEK İSTEMİYORSAN, GÜNCELLEME DENETLEMESİNİ "AeroInsta Ayarları > Servis > Güncellemeleri devredışı bırak" SEÇENEĞİNDEN DEVREDIŞI BIRAKABİLİRSİN.
+
+[•• UYARI••]
+
+InstAero V12.0.0.beta Değişenler:
+
+
+••| InstAero V12.0.0.beta Güncelleme Detayları |••
+
+• [TEMEL GÜNCELLENDİ] 157.0.0.37.120
+
+• [Düzeltildi] Bazı hatalar giderildi.
+
+
+[•• RENKLER ••]
+(Karanlık mod ile birlikte kullanabilirsiniz..)
+
+Karanlık Yeşil
+Karanlık Mavi
+Karanlık Beyaz
+Karanlık Kırmızı
+Karanlık Altın
+Ekstra Karanlık
+Açık Ton
+Mercan Pembesi
+Parlak Mor
