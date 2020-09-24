@@ -1,0 +1,27 @@
+[•• WARNING ••]
+
+IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "AeroInsta Settings > Service > Disable updates".
+
+[•• WARNING ••]
+
+InstAero V12.0.0.beta Changelog:
+
+
+••| InstAero V12.0.0.beta Update Details |••
+
+• [BASE UPDATE] 157.0.0.37.120
+
+• [Fixed] Some Bugs
+
+[•• COLORS ••]
+(Can be used in conjunction with the night mode feature.)
+
+Dark Green
+Dark Blue
+Dark White
+Dark Red
+Gold Dark
+Extra Dark
+Light Tone
+Coral Pink
+Light Purple
