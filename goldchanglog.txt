@@ -1,10 +1,10 @@
-[•• UYARI••]
+[•• ملاجظه••]
 
-BU GÜNCELLEME BİLDİRİMİNİ GÖRMEK İSTEMİYORSAN, GÜNCELLEME DENETLEMESİNİ "AeroInsta Ayarları > Servis > Güncellemeleri devredışı bırak" SEÇENEĞİNDEN DEVREDIŞI BIRAKABİLİRSİN.
+إذا كنت لا تريد الاطلاع على إشعار التحديث هذا ، فيمكنك تعطيل "التحقق من التحديث" من "إعدادات انستقرام الذهبي> الخدمة> تجاهل التحديثات
 
-[•• UYARI••]
+[•• تنبيه••]
 
-InstAero V12.0.0.beta Değişenler:
+تغيرات انستقرام الذهبي 1.10:
 
 
 ••| InstAero V12.0.0.beta Güncelleme Detayları |••
