@@ -4,12 +4,12 @@ IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM
 
 [•• WARNING ••]
 
-InstAero V12.0.0.beta Changelog:
+InstAero V1.20 Changelog:
 
 
-••| InstAero V12.0.0.beta Update Details |••
+••| InstAero V1.20 Update Details |••
 
-• [BASE UPDATE] 157.0.0.37.120
+• [BASE UPDATE] 157.0.0.37.130
 
 • [Fixed] Some Bugs
 
