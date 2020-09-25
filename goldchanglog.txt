@@ -1,15 +1,15 @@
 [•• WARNING ••]
 
-IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "AeroInsta Settings > Service > Disable updates".
+IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "InstaGold Settings > Service > Disable updates".
 
 [•• WARNING ••]
 
-InstAero V1.20 Changelog:
+InstaGold V1.10 Changelog:
 
 
-••| InstAero V1.20 Update Details |••
+••| InstAero V1.10 Update Details |••
 
-• [BASE UPDATE] 157.0.0.37.130
+• [BASE UPDATE] 157.0.0.37.120
 
 • [Fixed] Some Bugs
 
