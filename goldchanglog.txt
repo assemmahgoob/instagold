@@ -1,27 +1,9 @@
-[•• WARNING ••]
+Version 21. Changelog:
 
-IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "InstaGold Settings > Service > Disable updates".
-
-[•• WARNING ••]
-
-InstaGold V1.10 Changelog:
-
-
-••| InstAero V1.10 Update Details |••
-
-• [BASE UPDATE] 157.0.0.37.120
-
-• [Fixed] Some Bugs
-
-[•• COLORS ••]
-(Can be used in conjunction with the night mode feature.)
-
-Dark Green
-Dark Blue
-Dark White
-Dark Red
-Gold Dark
-Extra Dark
-Light Tone
-Coral Pink
-Light Purple
+>Profile picture zoom fixed
+>Added tracker for people, who unfollows you(I don't know how it would be work with big amount of followers). You can enable it in settings
+>Added activity to watch followings, who doesn't follow you back(long tap on heart icon). If there's not all followings, then go to followings list in Instagram itself at first
+>Downloader changed a little bit, notifications are stacking now
+>Fixed Google translate
+>Another black theme fixes
+>Translations updated
