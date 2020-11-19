@@ -1,9 +1,9 @@
-Version 60. Changelog:
+الاصدار 20. سجل التغيرات:
 
->Profile picture zoom fixed
->Added tracker for people, who unfollows you(I don't know how it would be work with big amount of followers). You can enable it in settings
->Added activity to watch followings, who doesn't follow you back(long tap on heart icon). If there's not all followings, then go to followings list in Instagram itself at first
->Downloader changed a little bit, notifications are stacking now
->Fixed Google translate
->Another black theme fixes
->Translations updated
+>تكبير صورة الملف الشخصي ثابتة
+>أداة تعقب مضافة للأشخاص الذين لا يتابعونك (لا أعرف كيف يعمل مع عدد كبير من المتابعين). يمكنك تمكينه في الإعدادات
+>نشاط مضاف لمشاهدة المتابعين الذين لا يتابعونك (اضغط لفترة طويلة على أيقونة القلب). إذا لم يكن هناك كل ما يلي ، فانتقل إلى قائمة المتابعين في Instagram نفسه في البداية
+>تغير برنامج التنزيل قليلاً ، تتكدس الإشعارات الآن
+>إصلاح ترجمة جوجل
+>إصلاحات موضوع أسود آخر
+>تحديث الترجمات
