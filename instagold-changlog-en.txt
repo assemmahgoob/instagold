@@ -1,4 +1,4 @@
-Version 40. Changelog:
+Version 30. Changelog:
 
 >Profile picture zoom fixed
 >Added tracker for people, who unfollows you(I don't know how it would be work with big amount of followers). You can enable it in settings
