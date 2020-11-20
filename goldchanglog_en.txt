@@ -4,12 +4,12 @@ IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM
 
 [•• WARNING ••]
 
-InstaGold V1.10 Changelog:
+InstaGold V1.20 Changelog:
 
 
-••| InstAero V1.10 Update Details |••
+••| InstGold V1.20 Update Details |••
 
-• [BASE UPDATE] 157.0.0.37.120
+• [BASE UPDATE] 165.1.0.29.119
 
 • [Fixed] Some Bugs
 
