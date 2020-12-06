@@ -4,10 +4,10 @@ IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM
 
 [•• WARNING ••]
 
-InstaGold V1.20 Changelog:
+InstaGold V1.25 Changelog:
 
 
-••| InstGold V1.20 Update Details |••
+••| InstGold V1.25 Update Details |••
 
 • [BASE UPDATE] 165.1.0.29.119
 
