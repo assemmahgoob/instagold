@@ -1,4 +1,4 @@
-Version 25. Changelog:
+Version 30. Changelog:
 
 >Fixed update for all problems
 >Fixed a problem with delayed downloading of messages
