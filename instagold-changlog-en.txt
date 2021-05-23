@@ -1,7 +1,9 @@
-Version 60. Changelog:
+الاصدار 70. سجل التغيرات:
 
->Fixed All Previous Bugs
->[Base] New Base update 173.0.0.39.120
->[Added] Action Bar and NavBar Setting Again
->[Fixed] the problem of not opening messages on some devices
->Fixed many more issues.
+>تحديث [قاعدة] 184.0.0.30.117
+>[اصلاح] مشكلة هذا التطبيق ضار في بعض الاجهزه
+>[اصلاح] مشكلة الرسائل المعلقة
+>[اضافة] قفل الدردشة
+>[إزالة] شريط الإجراءات وإعداد شريط التنقل مرة أخرى
+>[أضافة] ميزة ريمكس
+>تم إصلاح العديد من المشكلات.
